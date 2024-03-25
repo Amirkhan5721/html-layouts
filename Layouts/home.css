@@ -42,7 +42,14 @@ nav ul li a {
     font-size: large;
     font-weight: bold;
 }
-.contant h2 {
+#head-2 {
+    font-size: 50px;
+    font-weight: 100;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: #232d60;
+}
+h2 {
     font-size: 50px;
     font-weight: 100;
     margin-top: 25px;
